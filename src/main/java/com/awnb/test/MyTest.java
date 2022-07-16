@@ -9,5 +9,7 @@ public class MyTest {
         System.out.println("master33333");
         System.out.println("33333hot-fix");
         System.out.println("test push");
+         System.out.println("test pull");
+        
     }
 }
