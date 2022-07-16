@@ -5,5 +5,6 @@ public class MyTest {
         System.out.println("hanp憨批");
         System.out.println("hanp憨批");
         System.out.println("hanp憨批");
+        System.out.println("2222");
     }
 }
